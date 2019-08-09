@@ -22,7 +22,7 @@ Since I'm a long time user of the Spotify streaming service I've wanted to test 
 
 # Project Process <a name="process"></a>
 When working with this project I followed the CRISP-DM process. The details are found in the notebook and also on this blog post:
-<link>
+https://medium.com/@marcusnilsson78/sparkify-project-write-up-5dfbaac36cc6
 
 # Result Summary <a name="result"></a>
 The model result was not that good. As the dataset available was very small, it's hard to trust the model in it's current state. It should be trained and validated further on a greater dataset. Please see the blog mentioned above to read the complete results.
