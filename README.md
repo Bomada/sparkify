@@ -25,7 +25,7 @@ When working with this project I followed the CRISP-DM process. The details are 
 https://medium.com/@marcusnilsson78/sparkify-project-write-up-5dfbaac36cc6
 
 # Result Summary <a name="result"></a>
-The model result was not that good. As the dataset available was very small, it's hard to trust the model in it's current state. It should be trained and validated further on a greater dataset. Please see the blog mentioned above to read the complete results.
+The model got a F1 score in validation of 46.2% which is not that good. As the dataset available was very small, it's hard to trust the model in it's current state. It should be trained and validated further on a greater dataset. Please see the blog mentioned above to read the complete results.
 
 # Licensing, Authors, Acknowledgements <a name="licensing"></a>
 ## Code
