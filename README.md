@@ -17,7 +17,7 @@ The code should run with no issues using Python versions 3. See the requirements
 Since I'm a long time user of the Spotify streaming service I've wanted to test out some ideas for a while. In this project I could work with similar data and also try out Spark which is new to me.
 
 # File Descriptions <a name="files"></a>
-- **mini_sparkify_event_data.json**: Fictious music streaming data provided by Udacity.
+- **mini_sparkify_event_data.json**: Fictious music streaming data provided by Udacity. This file is not available in the repository due to it's size.
 - **sparkify.ipynb**: Exploratory notebook with all steps necessary to build a model that predicts churn for the Sparkify data.
 
 # Project Process <a name="process"></a>
